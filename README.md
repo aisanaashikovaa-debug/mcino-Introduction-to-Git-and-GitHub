@@ -2,7 +2,7 @@
 
 ## Simple Interest Calculator
 
-A calculator that calculates simple interest based on the principal amount, annual interest rate, and time period in years.
+A calculator that calculates simple interest based on the principal amount and time period in years.
 ```
 Input:
    p, principal amount
@@ -14,4 +14,4 @@ Output
 
 _© 2022 XYZ, Inc._
 
-This project demonstrates how to calculate simple interest using Git and GitHub.
+This project demonstrates ans show how to calculate simple interest using Git and GitHub.
